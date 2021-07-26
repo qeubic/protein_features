@@ -6,15 +6,7 @@ The focus of the code is on the construction of datasets for visual analytics of
 The input file can be obtained from the IMG/M including (1) searching for protein sequences with specific annotations (e.g. Pfam and COG functions); and (2) protein sequences predicted from the protein-coding. 
 
 
-
-#Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-
-#datatype	feats
-#status	0
-#Start time	
-#status	success
+An example of line in the output file of the CD-Search tool is provided below. 
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - >2503788320 DND132_3470 thyX thymidylate synthase (FAD) [Desulfovibrio desulfuricans ND132 (Final JGI assembly) : Ddes_Contig54]	specific	FAD binding site	S65,E68,R89,H90,R91,S96,Q97,S99,N174,R176,H180,L184,R185,R189	14	14	412038
-Q#1 - >2503788320 DND132_3470 thyX thymidylate synthase (FAD) [Desulfovibrio desulfuricans ND132 (Final JGI assembly) : Ddes_Contig54]	specific	nucleotide binding pocket	H85,Q86,R89,Q97,Q98,S99,Q100,R101,R158,R185	10	10	412038
-Q#1 - >2503788320 DND132_3470 thyX thymidylate synthase (FAD) [Desulfovibrio desulfuricans ND132 (Final JGI assembly) : Ddes_Contig54]	specific	tetramer interface  L11,A12,V13,T14,P15,A23,A24,Q27,S65,P66,E68,H69,S71,T73,H85,Q86,V88,R89,R91,S94,Y95,S96,Q97,Q98,R101,R125,F129,M130,E132,A136,E155,D156,R158,F159,V160,L161,P162,K168,V170,T172,R176,Q191	42	42	412038
