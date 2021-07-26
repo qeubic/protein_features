@@ -1,2 +1,3 @@
 # protein_features
-Production of visualization ready datasets from the features report of NCBI Web Batch CD-Search (https://www.ncbi.nlm.nih.gov/Structure/bwrpsb/bwrpsb.cgi?)
+Production of visualization ready datasets from the features report of NCBI Web Batch Conserved Domain [CD-Search] (https://www.ncbi.nlm.nih.gov/Structure/bwrpsb/bwrpsb.cgi?).
+The input of file for the CD-Search contains a collection of fasta formatted protein sequence obtained from the Integrated Microbial Genomes & Microbiomes (IMG/M https://img.jgi.doe.gov/cgi-bin/mer/main.cgi).  The input file can be obtained from the IMG/M including (1) searching for protein sequences with specific annotations (e.g. Pfam and COG functions); and (2)protein sequences predicted from the protein-coding.
