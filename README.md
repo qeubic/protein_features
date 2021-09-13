@@ -21,3 +21,6 @@ An example of a constructed record (row) from the output file of the CD-Search t
 
 Q1      2503788320      DND132_3470     thyX thymidylate synthase (FAD)         Desulfovibrio desulfuricans ND132 (Final JGI assembly)  specific        FAD binding site        SERHRSQSNRHLRR  65_68_89_90_91_96_97_99_174_176_180_184_185_189 14      412038  S65,E68,R89,H90,R91,S96,Q97,S99,N174,R176,H180,L184,R185,R189
 
+
+Publication:
+Isokpehi, Raphael D., Dominique S. McInnis, Antoinette M. Destefano, Gabrielle S. Johnson, Akimio D. Walker, Yessenia A. Hall, Baraka W. Mapp, Matilda O. Johnson, and Shaneka S. Simmons. "Bioinformatics Investigations of Universal Stress Proteins from Mercury-Methylating Desulfovibrionaceae." Microorganisms 9, no. 8 (2021): 1780. https://www.mdpi.com/2076-2607/9/8/1780 
